@@ -2,7 +2,7 @@ class Listing
 
   def self.create(title, description, user)
     connection = PG.connect :dbname => "makersbnb_#{ENV['RACK_ENV']}"
-    insert = connection.exec("INSERT INTO listings (title, description, user) VALUES('#{title}', '#{description}','#{user}') RETURNING id, title, description, user")
+    insert = connection.exec("INSERT INTO listings (title, description, user) VALUES('#{title}', '#{description}','#{user['id']}') RETURNING id, title, description, user")
     Listing.new(id, title, description, user)
   end
 
