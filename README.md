@@ -22,15 +22,15 @@ Headline specifications
 
 ## Team Members
 
-[Adam Philips](https://github.com/a-nawrocka)
+[Adam Philips](https://github.com/)
 
-[Edeman George](https://github.com/iainaitken)
+[Edeman George](https://github.com/)
 
-[Jai Jalah Kumar](https://github.com/jshorns)
+[Jai J.](https://github.com/)
 
-[Pete Allen](https://github.com/MJCXII)
+[Pete Allen](https://github.com/)
 
-[Sandy Pounoussamy](https://github.com/rhc07)
+[Sandy Pounoussamy](https://github.com/)
 
 ---
 
